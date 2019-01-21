@@ -11,7 +11,7 @@ Memory Focused Proximal Policy Method for Adaptive Biped Locomotion
 
 ![image](https://github.com/CristinaMa0917/MFPPM/blob/master/figures/bw.gif)
 ![image](https://github.com/CristinaMa0917/MFPPM/blob/master/figures/bwhc.gif)
-<div align=center><img width="150" height="150" src="https://github.com/CristinaMa0917/MFPPM/blob/master/figures/BipedalWalker-5k.png"/></div>
+<div align=center><img width="600" height="400" src="https://github.com/CristinaMa0917/MFPPM/blob/master/figures/BipedalWalker-5k.png"/></div>
 
 - Platform
   - Torch
