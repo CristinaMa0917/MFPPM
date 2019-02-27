@@ -1,5 +1,7 @@
 # MFPPM
 Memory Focused Proximal Policy Method for Adaptive Biped Locomotion
+
+
 Submitted to 2019IROS
 
 - Attention mechanisem and RNN are introduced into PPO ,which makes a superior performence in control of biped robot walking. (So it's aslo called AM-RPPO)
